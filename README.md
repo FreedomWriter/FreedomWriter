@@ -1,11 +1,11 @@
-### 👋🏽 , I'm Natalie
+### 👋🏽  I'm Natalie
 
 
 <!-- **FreedomWriter/FreedomWriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
- 🔭 I’m currently working on ... [Essentialism](https://github.com/FreedomWriter/essentialism-front-end), a side project to keep me fresh
+ 🔭 I’m currently working on ... [Essentialism](https://github.com/FreedomWriter/essentialism-front-end), a refactor to keep me fresh
  
  🤔 I’m looking for help with ... Finding my first developer role
  
