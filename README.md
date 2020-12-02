@@ -7,9 +7,9 @@ Here are some ideas to get you started:-->
 
  🔭 I’m currently working on ... [Essentialism](https://github.com/FreedomWriter/essentialism-front-end), a refactor to keep me fresh
  
- 🤔 I’m looking for help with ... Finding my first developer role
+ <!-- 🤔 I’m looking for help with ... Finding my first developer role -->
  
- 💬 Ask me about ... What I can bring to your team (spoiler - it's a lot!!)
+ <!-- 💬 Ask me about ... What I can bring to your team (spoiler - it's a lot!!) -->
  
  😄 Pronouns: ... she/her
  
