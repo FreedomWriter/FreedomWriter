@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:-->
 
- 🔭 I’m currently working on ... [Essentialism](https://github.com/FreedomWriter/essentialism-front-end), a refactor to keep me fresh
+ 🔭 I’m currently working on ... finding my footing in my first developer role
+ <!--[Essentialism](https://github.com/FreedomWriter/essentialism-front-end), a refactor to keep me fresh-->
  
  <!-- 🤔 I’m looking for help with ... Finding my first developer role -->
  
