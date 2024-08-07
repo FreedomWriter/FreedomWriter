@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
 <!-- - 📫 How to reach me: ...-->
 <!-- - 🌱 I’m currently learning ... -->
 
-![Profile views](https://gpvc.arturio.dev/FreedomWriter)  <img src="https://img.shields.io/github/followers/FreedomWriter?label=Follow" style=" float:left, margin-right:10px" />
+<!--![Profile views](https://gpvc.arturio.dev/FreedomWriter)  <img src="https://img.shields.io/github/followers/FreedomWriter?label=Follow" style=" float:left, margin-right:10px" />-->
 
 
 ---
